@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import armaghan from "./armaghan.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -50,14 +50,11 @@ import ashhad from "../assets/testimonials/ashhad.png"; // Adjust the path as ne
 import kashif from "../assets/testimonials/kashif.png"; // Adjust the path as needed
 import shaheer from "../assets/testimonials/shaheer.png"; // Adjust the path as needed
 
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
 export {
   ashhad,
   kashif,
   shaheer,
-  logo,
+  armaghan,
   backend,
   creator,
   mobile,
@@ -82,8 +79,6 @@ export {
   cdoxs,
   code_solution_zone,
   freelance,
-  jobit,
-  tripguide,
   bomi,
   cinenoir,
   guide_tailors,
