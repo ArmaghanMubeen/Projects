@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 
@@ -54,12 +54,12 @@ const AppStartProjects = () => {
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<AppStartTop />} />
         <Route path="/projects" element={<AppStartProjects />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 

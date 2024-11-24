@@ -144,54 +144,54 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Flutter Developer",
+    title: "Sr. Software Engineer",
     company_name: "Code Solution Zone",
     icon: code_solution_zone,
     iconBg: "#383E56",
     date: "May 2024 - Dec 2024",
     points: [
-      "Developed cross-platform mobile applications, handling both front-end and back-end development.",
-      "Gained hands-on experience with MERN Stack technologies, contributing to full-stack development projects.",
-      "Collaborated closely with the management and design teams to enhance app functionalities and deliver innovative solutions.",
-      "Provided technical insights and recommendations to improve product development processes and project efficiency.",
+      "Developed cross-platform mobile applications using Flutter, integrated with Firebase for real-time database and authentication",
+      "Built scalable backend solutions with Node.js and MongoDB, optimizing API performance, and reducing response time by 20%",
+      "Contributed to the development of full-stack applications with the MERN stack, ensuring responsive and high-performance solutions.",
+      "Implemented marketing strategies that increased user traffic by 35% within the first 3 months of the app launch.",
+      "Published Android and iOS apps while leading a team of developers, collaborating with designers and stakeholders to ensure user friendly interfaces.",
     ],
   },
   {
-    title: "MERN Stack & Flutter Developer",
+    title: "Software Engineer",
     company_name: "Freelance",
     icon: freelance,
     iconBg: "#E6DEDD",
     date: "Apr 2022 - May 2024",
     points: [
-      "Developed a wide range of applications across various domains, showcasing adaptability and technical expertise.",
-      "Managed projects from planning to deployment, mastering time management and adaptability.",
-      "Skilled in diverse programming languages and frameworks, enabling versatile and efficient development.",
-      "Honed discipline and problem-solving abilities while working solo.",
+      "Designed, developed, and deployed full-stack applications using technologies such as React, Node.js, and Flutter.",
+      "Integrated third-party APIs, including payment gateways and social media platforms, to enhance app functionality.",
+      "Managed end-to-end project development, adapting to diverse requirements and ensuring scalable solutions for clients, including government officials.",
+      "Adapted to diverse client requirements, ensuring scalability and performance, which led to a 50% increase in recurring business.",
     ],
   },
   {
-    title: "Native Android & Flutter Developer",
+    title: "Software Developer",
     company_name: "CDOXS",
     icon: cdoxs,
     iconBg: "#383E56",
     date: "Oct 2021 - Apr 2022",
     points: [
-      "Experienced software engineering specializing in crafting innovative mobile applications.",
-      "Developed diverse apps such as online food delivery, e-commerce, discount offer platforms, and home essentials delivery services.",
-      "Proficient in advanced software development, project management, collaborative teamwork, problem-solving, and user-centric design.",
+      "Developed high-performance mobile applications in Dart, Java, and Kotlin for industries including e-commerce, online food delivery, and home essentials.",
+      "Delivered end-to-end app development while maintaining high code quality standards, reducing bug-related issues by 25% post-launch.",
+      "Published apps with a focus on user experience, maintaining optimal functionality and responsiveness.",
     ],
   },
   {
-    title: "MERN Stack Developer Intern",
+    title: "Software Engineer, Intern",
     company_name: "Powersoft19",
     icon: powersoft19,
     iconBg: "#E6DEDD",
     date: "Jun 2021 - Jul 2021",
     points: [
-      "Internship at PowerSoft19, focusing on full-stack web development.",
-      "Acquired skills in comprehensive web development, problem-solving, adaptability, and client communication.",
-      "Strengthened attention to detail in a collaborative, high-pressure environment.",
-      "Ready to contribute to innovative web development teams with newfound expertise.",
+      "Developed dynamic, responsive websites using PHP, SQL, JavaScript, jQuery, HTML, and CSS",
+      "Collaborated with the QA team to ensure cross-browser compatibility, helping maintain a 98% compatibility rate across major browsers.",
+      "Gained hands-on experience in both front-end and back-end development, contributing to the overall functionality of web projects.",
     ],
   },
 ];
@@ -227,7 +227,7 @@ const projects = [
   {
     name: "Pakistan Railways Official",
     description:
-      "Enhanced Pakistan Railway's official app by integrating real-time train tracking, predictive travel times, interactive route maps, geolocation-triggered notifications, and a smart assistant for FAQs, while optimizing the backend for faster load times and responsiveness.",
+      "Provided consulting services to Pakistan Railways, recommending features for their official app, including real-time train tracking, predictive travel times, interactive maps, geolocation-triggered notifications, and a smart assistant for FAQs, along with backend optimizations for faster load times and improved responsiveness",
     tags: [
       {
         name: "react",
@@ -359,7 +359,7 @@ const projects = [
   {
     name: "Law Nexus",
     description:
-      "Developed GuideTailors app with online tailoring and e-commerce features, sold it for international expansion, and later rehired for debugging, updates, deployment, and admin panel creation.",
+      "Led design and development of law firm’s web application, gaining valuable insights during implementation.",
     tags: [
       {
         name: "wordpress",
