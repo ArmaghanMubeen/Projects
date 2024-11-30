@@ -24,6 +24,7 @@ import slick_accountants from "./slick_accountants.png";
 import veeta_ai from "./veeta_ai.png";
 import qreate from "./qreate.png";
 import freeflow_vpn from "./freeflow_vpn.png";
+import kp_network from "./kp_network.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -99,4 +100,5 @@ export {
   freeflow_vpn,
   firebase,
   flutter,
+  kp_network,
 };

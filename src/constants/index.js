@@ -43,6 +43,7 @@ import {
   freeflow_vpn,
   firebase,
   flutter,
+  kp_network,
 } from "../assets";
 
 export const navLinks = [
@@ -554,6 +555,50 @@ const projects = [
     image: slick_accountants,
     source_code_link:
       "https://play.google.com/store/apps/details?id=com.slickaccountants.slick_accountants&hl=en",
+  },
+  {
+    name: "SS Network",
+    description:
+      "Mobile app simulating network-based rewards through a time-driven system, allowing users to accumulate virtual assets with minimal resource consumption. Built for future integration, supporting potential features like network mining and monetization. Focused on user engagement with a seamless interface to track rewards and control activities.",
+    tags: [
+      {
+        name: "flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ss_network,
+    source_code_link:
+      "https://play.google.com/store/apps/details?id=com.ssnetwork.com&hl=en_US",
+  },
+  {
+    name: "KP Network",
+    description:
+      "An innovative mobile app designed to reward users through a time-based system, providing a resource-efficient way to accumulate virtual assets. Built with future-ready architecture, it supports potential features like network-driven earning and monetization.",
+    tags: [
+      {
+        name: "flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: kp_network,
+    source_code_link:
+      "https://play.google.com/store/apps/details?id=com.kpnetwok.kp&pcampaignid=web_share",
   },
   {
     name: "SlickAccountants - Web Application",
